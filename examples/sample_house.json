@@ -1,0 +1,88 @@
+{
+  "project_id": "house_001",
+  "name": "Modern Two Floor House",
+  "architectural_style": "modern",
+  "unit": "meter",
+  "plot": {
+    "width": 9.144,
+    "length": 12.192
+  },
+  "floors": [
+    {
+      "floor_number": 1,
+      "height": 3.0,
+      "rooms": [
+        {
+          "room_id": "R001",
+          "name": "Living Room",
+          "width": 4.0,
+          "length": 4.0,
+          "x": 0.0,
+          "z": 0.0
+        },
+        {
+          "room_id": "R002",
+          "name": "Kitchen",
+          "width": 3.0,
+          "length": 3.0,
+          "x": 4.0,
+          "z": 0.0
+        },
+        {
+          "room_id": "R003",
+          "name": "Dining Room",
+          "width": 3.0,
+          "length": 3.0,
+          "x": 0.0,
+          "z": 4.0
+        }
+      ],
+      "walls": [],
+      "doors": [],
+      "windows": [],
+      "furniture": []
+    },
+    {
+      "floor_number": 2,
+      "height": 3.0,
+      "rooms": [
+        {
+          "room_id": "R004",
+          "name": "Bedroom 1",
+          "width": 4.0,
+          "length": 4.0,
+          "x": 0.0,
+          "z": 0.0
+        },
+        {
+          "room_id": "R005",
+          "name": "Bedroom 2",
+          "width": 3.5,
+          "length": 3.5,
+          "x": 4.0,
+          "z": 0.0
+        },
+        {
+          "room_id": "R006",
+          "name": "Bathroom 1",
+          "width": 2.0,
+          "length": 2.0,
+          "x": 0.0,
+          "z": 4.0
+        },
+        {
+          "room_id": "R007",
+          "name": "Bathroom 2",
+          "width": 2.0,
+          "length": 2.0,
+          "x": 2.0,
+          "z": 4.0
+        }
+      ],
+      "walls": [],
+      "doors": [],
+      "windows": [],
+      "furniture": []
+    }
+  ]
+}
