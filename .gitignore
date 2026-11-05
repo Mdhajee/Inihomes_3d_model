@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.*
+
+# Allow the example configuration
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
